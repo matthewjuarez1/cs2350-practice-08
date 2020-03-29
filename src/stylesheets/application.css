@@ -24,6 +24,10 @@ margin: 5px;
   width: 100%;
   height: auto;
 }
+.movies form{
+  grid-area: 1 / 1 / 2 / span 9;
+}
+
 .movies form input{
   width: 70%;
   padding: 5px;
